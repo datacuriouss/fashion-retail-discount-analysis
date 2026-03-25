@@ -10,7 +10,7 @@ trained customers to buy regardless of whether a discount exists?
 ## Tools Used
 - Python (pandas, numpy) — data cleaning & feature engineering
 - SQL (sqlite3) — business queries & analysis
-- Tableau — interactive dashboard (coming soon)
+- PowerBI — interactive dashboard (coming soon)
 
 ## Dataset
 Global Fashion Retail Sales — 6.4 million transactions
